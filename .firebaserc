@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "parkrun-th"
+  },
+  "targets": {
+    "parkrun-th": {
+      "hosting": {
+        "master": [
+          "parkrun-th"
+        ]
+      }
+    }
+  }
+}

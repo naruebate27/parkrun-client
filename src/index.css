@@ -1,0 +1,11 @@
+body {
+  background-color: #DDDDDD !important;
+  margin: 0;
+  font-family: 'Kanit', sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Kanit', sans-serif;
+}
